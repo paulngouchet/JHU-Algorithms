@@ -1,0 +1,11 @@
+pandas
+numpy
+seaborn
+Matplolib
+IPython
+ipywidgets
+scipy
+gensim
+nltk
+sklearn 
+plotly
